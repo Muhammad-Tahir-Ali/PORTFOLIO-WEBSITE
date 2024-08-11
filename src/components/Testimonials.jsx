@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 
 const Testimonials = () => {
   return (
-    <section id="testimonials" aria-label="What our customers are saying" className="bg-slate-50 py-20 sm:py-32">
+    <section id="testimonials" aria-label="What our customers are saying" className="py-20 sm:py-32">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
       <div className="text-center text-4xl font-bold text-blue-700 leading-tight mb-12 uppercase">
         <motion.p

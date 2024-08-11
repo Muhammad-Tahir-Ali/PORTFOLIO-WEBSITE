@@ -3,10 +3,10 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import AboutMe from "./components/AboutMe";
 import SkillRibbon from "./components/SkillRibbon";
-import WorkingProcess from "./components/WorkingProcess";
-import Projects from "./components/Projects";
+import WorkingProcess from "./components/WorkingProcess"
 import Testimonials from "./components/Testimonials";
 import Footer from "./components/Footer";
+import ProjectSection from "./components/ProjectSection";
 
 function App() {
   return (
@@ -23,7 +23,7 @@ function App() {
         <WorkingProcess />
       </div>
       <div id="projects">
-        <Projects />
+        <ProjectSection />
       </div>
       <div id="testimonials">
         <Testimonials  />
