@@ -5,7 +5,7 @@ import AboutMe from "./components/AboutMe";
 import SkillRibbon from "./components/SkillRibbon";
 import WorkingProcess from "./components/WorkingProcess";
 import Projects from "./components/Projects";
-import Testimonial from "./components/Testimonial";
+import Testimonials from "./components/Testimonials";
 import Footer from "./components/Footer";
 
 function App() {
@@ -26,7 +26,7 @@ function App() {
         <Projects />
       </div>
       <div id="testimonials">
-        <Testimonial  />
+        <Testimonials  />
       </div>
       <SkillRibbon />
       <Footer id="footer" />
