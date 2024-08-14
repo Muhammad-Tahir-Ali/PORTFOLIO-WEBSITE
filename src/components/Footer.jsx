@@ -57,7 +57,7 @@ const Footer = () => {
           </a>
         </div>
         <p className="text-center text-gray-700 font-medium">
-          &copy; 2024 Muhammad Tahir. All rights reservered.
+          &copy; 2024 Muhammad Tahir. All rights reserved.
         </p>
       </footer>
     </div>
