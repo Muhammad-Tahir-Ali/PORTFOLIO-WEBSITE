@@ -38,10 +38,7 @@ const AboutMe = () => {
             whileInView={{ x: 0, opacity: 1 }}
             transition={{ duration: 0.5, delay: .7 }}
           >
-            Whether you're looking to revamp your existing site or build a new
-            one from scratch, I can help you create a web presence that stands
-            out, attracts more customers, and ultimately boosts your bottom
-            line. Let's work together to bring your vision to life and grow your
+            Let's work together to bring your vision to life and grow your
             business online.
           </motion.p>
         </div>
