@@ -83,10 +83,9 @@ const AboutMe = () => {
               whileInView={{ x: 0, opacity: 1 }}
               transition={{ duration: 0.5, delay: 1.2 }}
             >
-              <li className="mb-2">React JS</li>
-              <li className="mb-2">Next JS</li>
-              <li className="mb-2">Tailwind CSS</li>
               <li className="mb-2">JavaScript</li>
+              <li className="mb-2">React JS</li>
+              <li className="mb-2">Tailwind CSS</li>
             </motion.ul>
           </div>
 
